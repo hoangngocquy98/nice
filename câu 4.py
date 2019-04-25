@@ -1,6 +1,4 @@
-a="hello gay!"
-def say(a):
-    a= " vinh university"
-    print(a)
-say(a)
-print(a)
+ds=input('danh sách:').split()
+print(ds)
+for so in ds:
+    print(so)

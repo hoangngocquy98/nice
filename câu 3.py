@@ -1,4 +1,3 @@
-def say_hello():
-    a="chào"
-    print(a)
-    prin(a)
+s = input('nhập chuổi :').upper()
+for x in s:
+    print(x)

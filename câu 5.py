@@ -1,7 +1,5 @@
-a=" hello gay"
-def say():
-    global a
-    a=" vinh university"
-    print(a)
-say()
-print(a)
+ds=input('danh sách:').split()
+ds.reverse()
+print(ds)
+for so in ds:
+    print(so)
